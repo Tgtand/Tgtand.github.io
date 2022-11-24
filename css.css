@@ -29,10 +29,6 @@ color: rgba(91, 87, 87, 0.6);
     border-radius: 15px;
     /* 圆角 */
 }
-#above-text{
-    max-width:1000px; 
-    float: left;
-}
 #left-box{
     position:relative;
     left: 1%;
@@ -51,6 +47,10 @@ color: rgba(91, 87, 87, 0.6);
     margin-right: 2em;
     font-weight: normal;
 }
+#above-text{
+    max-width:1000px; 
+    float: left;
+}
 #above-text ul{
     list-style: none;
 }
@@ -64,6 +64,10 @@ color: rgba(91, 87, 87, 0.6);
     padding-right: 2em;
     font-weight:normal;
     font-size: 1em;
+}
+#above-text ul li a{
+    text-decoration: none;
+    color: black;
 }
 #right-box{
     position:relative;
@@ -81,6 +85,29 @@ color: rgba(91, 87, 87, 0.6);
 #about-aside2{
     margin-top: 2em;
 }
+#something-text{
+    max-width:1000px; 
+    float: left;
+}
+#something-text header{
+    text-align: center;
+    line-height: 1.2;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+/* #something-text ul{
+    list-style: none;
+} */
+#something-text ul li h2{
+    font-size:1.7em;
+    line-height:1.2;
+    text-align: center;
+    font-weight: normal;
+}
+#something-text ul li{
+    margin-right: 2em;
+}
+
 blockquote {
     border-left: 3px solid;
     border-right: 0px solid #ddd;
