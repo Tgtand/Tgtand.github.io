@@ -122,3 +122,12 @@ blockquote {
     color: rgba(91, 87, 87, 0.6);
     font-size: 2em;
     }
+#tools-text {
+    max-width:1000px;
+    float: left;
+}
+.post-content {
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 0px;
+    position: relative;
+  }
