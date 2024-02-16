@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于</title>
+    <url>/2023/08/18/%E5%85%B3%E4%BA%8E/</url>
+    <content><![CDATA[<div class="about-container">
+        <div class="about-text">
+            <article>
+                <ul>
+                    <li>
+                        <h2>关于</h2>
+                        <h3 >
+                            首先很高兴你能来到这个网站,希望这里能对你有所帮助，也希望能和你成为朋友。
+                        </h3 >
+                    </li>
+                    <li>
+                        <h2 >关于我</h2>
+                        <h3>
+                        一次偶然的机会我进入了Github，我就发现这可以创建一个自己的网站，于是我便恶补前端知识<del>上了B站大学</del>，然后就搞了这么一个小网站，有一个自己的网站我觉得这是一件很酷的事情，我挺喜欢这个网站的，毕竟Ta是我一个一个字扣出代码才搞出来的哈哈哈，我的技术有限，没有办法把这个整的非常高大上，我也想像其他牛人一样弄得花起来<del>谁不想呢</del>，如果你是偶然发现这个网站的，欢迎给我发送邮件，指出我的错误和一些改进的方法，我不会添加网站评论功能所以麻烦你通过下面的邮箱来联系我吧。
+                            <br>
+                        如果你是我所认识的朋友，那你肯定是通过我发的链接进来的了，哈哈哈哈哈，友链那里我可以放上你的相关链接哈哈哈哈哈哈哈哈。
+                        </h3>                           
+                    </li>
+                    <li>
+                        <h2>关于这个网站</h2>
+                        <h3>
+                            为什么这个网站，这可能就是为了满足自己写字的欲望以及在这个浮躁的社会中有一丝丝自己的小天地，我也不知道我会在这里写一些什么东西，但我总想记一些东西
+                            等过了几个月甚至几年后再看看，或许会有更多的思考吧
+                        </h3>
+                        <h3>
+                            在肖申克的救赎当中，有这么一句台词
+                            <blockquote>
+                                <p>“The good things are not dead.”</p>
+                            </blockquote>
+                            <blockquote>美好的东西是不会死的。</blockquote>
+                            我很喜欢这句话，所以我就以这句话的每个词的首字母作为这个网站的网址了(这个很难读得通顺但也不指望这个能够出名<del>我更希望自己名字出名哈哈哈哈</del>，是的，美好的东西总不会死，不会灭亡，永远存在，我也希望能在这个网站当中记录一些美好的东西，让它永不灭亡(我会记得给这个域名续费的！！！)
+                        </h3>
+                        <h2>点击下方联系我</h2>
+                        <blockquote>
+                            <a href="mailto:Tgtand422@outlook.com">Tgtand422@outlook.com</a>
+                        </blockquote>
+                        欢迎向我发邮件！😊
+                    </li>
+            </article>
+        </div>
+</div>]]></content>
+      <categories>
+        <category>碎碎念</category>
+      </categories>
+      <tags>
+        <tag>自我阐述</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>工具</title>
-    <url>/2024/02/07/%E5%B7%A5%E5%85%B7/</url>
+    <url>/2023/08/07/%E5%B7%A5%E5%85%B7/</url>
     <content><![CDATA[<h1 id="Windws工具"><a href="#Windws工具" class="headerlink" title="Windws工具"></a>Windws工具</h1><table>
 <thead>
 <tr>
@@ -91,7 +142,7 @@
         <category>工具类</category>
       </categories>
       <tags>
-        <tag>工具</tag>
+        <tag>实用类</tag>
       </tags>
   </entry>
   <entry>
@@ -990,5 +1041,8 @@
         </blockquote>
     </div>
 </div>]]></content>
+      <categories>
+        <category>那必然是学习</category>
+      </categories>
   </entry>
 </search>
